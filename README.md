@@ -1,7 +1,7 @@
 # Hi there, I'm Yi-Qing Lin! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3883F7&width=435&lines=Software+Engineer;Machine+Learning+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3883F7&width=435&lines=Software+Engineer;AI+Automation+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ## About Me
