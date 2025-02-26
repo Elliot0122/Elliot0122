@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/yi-qing-lin/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="transform: scale(1); transition: transform .2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
-<!--   <!-- Personal Website -->
-  <a href="" target="_blank" rel="noreferrer">
+ <!-- Personal Website -->
+  <a href="https://www.yiqinglin.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal Website Badge" style="transform: scale(1); transition: transform .2s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';"/>
   </a>
